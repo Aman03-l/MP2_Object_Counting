@@ -1,6 +1,6 @@
 # MP2_Object_Counting
 
-## Identitas Mahasiswa
+## Nama dan NRP
 - **Nama**: Salman Al Ghifary
 - **NRP**: 5024221003
 
